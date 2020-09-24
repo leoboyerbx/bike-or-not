@@ -12,8 +12,7 @@
   "author": "leoboyerbx",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
-    "onoff": "^5.0.1"
+    "onoff": "^6.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
